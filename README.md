@@ -1,6 +1,7 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+Пройдите по [ссылке](https://nicko858.github.io/20_mood/), чтобы попасть на сайт.
+
 
 # Project Goals
 
