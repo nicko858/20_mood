@@ -1,0 +1,20 @@
+body{
+    background: #c1ebff;
+}
+
+span{
+    font-size:15px;
+}
+
+.box{
+    padding:60px 0px;
+}
+
+.text{
+    margin:20px 0px;
+}
+
+.joke{
+    background: #faffa8;
+    border: 25px solid #ffc78f;
+}
